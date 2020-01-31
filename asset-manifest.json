@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d617933.chunk.css",
+    "main.js": "/static/js/main.6f7686ae.chunk.js",
+    "main.js.map": "/static/js/main.6f7686ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.976c1703.js",
+    "runtime-main.js.map": "/static/js/runtime-main.976c1703.js.map",
+    "static/js/2.e78f0d92.chunk.js": "/static/js/2.e78f0d92.chunk.js",
+    "static/js/2.e78f0d92.chunk.js.map": "/static/js/2.e78f0d92.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.baeaac5b000038bbd2cc8dd8126e4596.js": "/precache-manifest.baeaac5b000038bbd2cc8dd8126e4596.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0d617933.chunk.css.map": "/static/css/main.0d617933.chunk.css.map",
+    "static/media/App.scss": "/static/media/Technic_Regular.d9755aea.ttf",
+    "static/media/group.scss": "/static/media/Rectangle 67.ce7d4425.png"
+  }
+}
